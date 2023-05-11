@@ -1,0 +1,2 @@
+# clust_neural_networks_SIC
+Documentacion de Sistemas inteligentes computacionales
